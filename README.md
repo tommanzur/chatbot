@@ -19,10 +19,6 @@ Here is a screenshot of the web interface of the chatbot:
 
 ![Screenshot](screenshot.png)
 
-And here is a video tutorial that shows how to use the application:
-
-[Video Tutorial](video.mp4)
-
 ## Prerequisites
 
 To run this project, you need the following:
